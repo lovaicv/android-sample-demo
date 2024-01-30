@@ -7,7 +7,7 @@
 
         <variable
             name="viewModel"
-            type="com.iebayirli.recyclerviewwithdatabinding.scene.articles.ArticleListViewModel" />
+            type="com.my.recyclerviewwithdatabinding.scene.articles.ArticleListViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

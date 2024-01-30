@@ -7,11 +7,11 @@
 
         <variable
             name="viewModel"
-            type="com.iebayirli.recyclerviewwithdatabinding.scene.main.MainViewModel" />
+            type="com.my.recyclerviewwithdatabinding.scene.main.MainViewModel" />
 
         <variable
             name="adapter"
-            type="com.iebayirli.recyclerviewwithdatabinding.scene.main.MovieAdapter" />
+            type="com.my.recyclerviewwithdatabinding.scene.main.MovieAdapter" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

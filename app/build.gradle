@@ -9,7 +9,7 @@ android {
     compileSdkVersion 34
 
     defaultConfig {
-        applicationId "com.iebayirli.recyclerviewwithdatabinding"
+        applicationId "com.my.recyclerviewwithdatabinding"
         minSdkVersion 24
         targetSdkVersion 34
         versionCode 1
@@ -34,7 +34,7 @@ android {
     buildFeatures{
         dataBinding true
     }
-    namespace 'com.iebayirli.recyclerviewwithdatabinding'
+    namespace 'com.my.recyclerviewwithdatabinding'
 }
 
 dependencies {

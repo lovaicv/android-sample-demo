@@ -6,7 +6,7 @@
 
         <variable
             name="currency"
-            type="com.iebayirli.recyclerviewwithdatabinding.database.Currency" />
+            type="com.my.recyclerviewwithdatabinding.database.Currency" />
 
     </data>
 
